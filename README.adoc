@@ -1,0 +1,7 @@
+== Spring Boot Flyway Sample
+
+This sample demonstrates the flyway auto-configuration support.
+
+You can look at `http//localhost:8080/flyway` to review the list of scripts.
+
+This sample use an existing postgresql datasource, db name is `bootflyway`.
